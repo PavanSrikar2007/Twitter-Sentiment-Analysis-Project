@@ -21,7 +21,6 @@ Due to GitHub file size limits, large model files are hosted separately
 1. Download the model files from the links above
 2. Place them in their respective folders as shown in the project structure
 3. Run `streamlit run app.py`
-
 ---
 
 ## 🚀 Key Features
@@ -74,7 +73,6 @@ Due to GitHub file size limits, large model files are hosted separately
 
 😊 Emoji Package: https://pypi.org/project/emoji/
 
-
 ---
 
 ## ⚙️ Setup and Usage
@@ -108,5 +106,5 @@ Due to GitHub file size limits, large model files are hosted separately
    ```
 ## 👩‍💻Author
 
-Marpini Himabindu
-B.Tech in Information Technology, 2022–2026
+Marpini Pavan Srikar
+B.Tech in Electronics and Communication Engineering , 2024–2028
