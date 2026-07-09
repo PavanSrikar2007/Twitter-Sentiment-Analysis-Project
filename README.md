@@ -4,11 +4,13 @@
 
 A full-stack deep learning project for sentiment classification of tweets directed at U.S. airlines, using advanced NLP models like **BERT** and **BiLSTM**, wrapped in an interactive **Streamlit** web app.
 
-## 🚀 Live Demo
+## 🚀 Run the App
 
-👉 [View Deployed App](#)  
+Run the Streamlit app locally after installing dependencies:
 
-https://mbindu-sentiment-analysis-project.streamlit.app/
+```bash
+streamlit run app.py
+```
 
 ## 📥 Model Files
 
@@ -43,6 +45,7 @@ Due to GitHub file size limits, large model files are hosted separately
 - 💻 **Interactive Deployment**
   - Built with **Streamlit**  
   - Single text analysis and batch CSV processing
+  - Xquik tweet/search CSV exports with `text`, `tweet_text`, `full_text`, `content`, or `body` columns
   - Real-time sentiment prediction with confidence scores
 
 - 💾 **Reproducible Artifacts**
@@ -85,9 +88,10 @@ Due to GitHub file size limits, large model files are hosted separately
    ```
    pip install -r requirements.txt
    ```
-2. Train the model (optional if pre-trained provided):
+2. Train the model (optional if pre-trained files are already provided):
    ```
-   python train.py
+   python train_bert.py
+   python train_lstm.py
    ```
 3. Run the Streamlit app:
    ```
@@ -104,5 +108,3 @@ Due to GitHub file size limits, large model files are hosted separately
 
 Marpini Pavan Srikar
 B.Tech in Electronics and Communication Engineering , 2024–2028
-
-
