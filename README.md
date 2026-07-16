@@ -4,13 +4,6 @@
 
 A full-stack deep learning project for sentiment classification of tweets directed at U.S. airlines, using advanced NLP models like **BERT** and **BiLSTM**, wrapped in an interactive **Streamlit** web app.
 
-## 🚀 Live Demo
-
-👉 [View Deployed App](#)  
-
-https://mbindu-sentiment-analysis-project.streamlit.app/
-
-
 ### Setup with Models:
 1. Download the model files from the links above
 2. Place them in their respective folders as shown in the project structure
