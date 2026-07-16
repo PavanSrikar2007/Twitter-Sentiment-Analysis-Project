@@ -10,10 +10,6 @@ A full-stack deep learning project for sentiment classification of tweets direct
 
 https://mbindu-sentiment-analysis-project.streamlit.app/
 
-## 📥 Model Files
-
-Due to GitHub file size limits, large model files are hosted separately
-
 
 ### Setup with Models:
 1. Download the model files from the links above
